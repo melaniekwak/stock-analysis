@@ -20,5 +20,5 @@ Both my 2017 and 2018 spreadsheets took almost 9 seconds to run.
 
 **Summary**
 
-Refactoring code allows us to improve the design of our Software, make it easier to understand, help us find bugs, and program faster. Disadvantages are that is can be risky when the application is big. Specifically, in VBA script, refactoring will help make the code more readable and hopefully run faster. Some downsides to refactoring include the time it takes to refactor and the possibility of making mistakes and creating more problems that solutions.
+Refactoring code allows us to improve the design of our Software, make it easier to understand, help us find bugs, and program faster. Disadvantages are that is can be risky when the application is big. Specifically, in VBA script, refactoring will help make the code more readable and hopefully run faster. Some downsides to refactoring include the time it takes to refactor and the possibility of making mistakes and creating more problems than solutions.
 
