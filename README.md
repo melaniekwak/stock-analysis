@@ -1,4 +1,4 @@
-## stock-analysis Module 2 VBA
+## Stock-Analysis Module 2 VBA
 
 ##### Deliverable 2 Written Analysis of Results
 
